@@ -7,17 +7,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0169-majority-element](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
 | [1480-running-sum-of-1d-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Two Pointers
 |  |
@@ -28,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -44,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
