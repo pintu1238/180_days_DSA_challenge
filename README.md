@@ -66,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+## String
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/3498-reverse-degree-of-a-string) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
