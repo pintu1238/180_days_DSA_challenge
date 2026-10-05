@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0283-move-zeroes) |
 ## Math
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/0125-valid-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/pintu1238/180_days_DSA_challenge/tree/master/3498-reverse-degree-of-a-string) |
 ## Simulation
